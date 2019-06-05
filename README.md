@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## ECE 499
+## Group 17
 
 You can use the [editor on GitHub](https://github.com/ADesrochers2/BC-Hydro-Capstone-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
