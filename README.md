@@ -2,6 +2,8 @@
 ### ECE 499 Capstone Project
 ### Sponsored by BC Hydro
 
+
+```markdown
 ### Group 17
 Group members are as followed:
 1. Riley Confrey
@@ -10,7 +12,7 @@ Group members are as followed:
 4. Allan Morales
 5. Matthew Wegener
 6. Matthew Woo
-
+```
 
 ## Background
 BC Hydro’s mandate is to provide power to the people of BC in a safe, reliable and economical way. The main buswork in its substations consist of electrical grade aluminum piping, and this piping is connected together with aluminum connections called “weldments”, which are connected by welding. BC Hydro has experienced water ingress into certain weldments found on bus connections called A-frames and wants to determine a non-conductive test method to determine when water ingression has occurred for this situation. Presence of water within these weldments could lead to failure of the buswork during cold weather conditions, thus affecting both BC Hydro and its customers in a negative way.
