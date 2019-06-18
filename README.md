@@ -3,8 +3,8 @@
 ### Sponsored by BC Hydro
 
 
-```markdown
 ### Group 17
+```markdown
 Group members are as followed:
 1. Riley Confrey
 2. Alexandre Desrochers
