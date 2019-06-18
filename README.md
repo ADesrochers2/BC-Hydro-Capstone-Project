@@ -1,5 +1,5 @@
 # Modeling Aluminum Buswork A-Frame Water Ingress
-## ECE 499 Capstone Project
+### ECE 499 Capstone Project
 ### Sponsered by BC Hydro
 
 ### Group 17
