@@ -18,6 +18,25 @@ Group members are as followed:
 BC Hydro’s mandate is to provide power to the people of BC in a safe, reliable and economical way. The main buswork in its substations consist of electrical grade aluminum piping, and this piping is connected together with aluminum connections called “weldments”, which are connected by welding. BC Hydro has experienced water ingress into certain weldments found on bus connections called A-frames and wants to determine a non-conductive test method to determine when water ingression has occurred for this situation. Presence of water within these weldments could lead to failure of the buswork during cold weather conditions, thus affecting both BC Hydro and its customers in a negative way.
 
 
+## Thermal Imaging
+Thermal imaging is a technology that allows one to view the thermal profile of an object.
+A thermal imaging camera captures an objects blackbody radiation (above 0 K) which
+emits heat [4]. This emitted heat occupies the infrared band of the electromagnetic
+spectrum. The thermal imaging camera converts the infrared to visible light. This
+technology offers the user to determine the heat distribution within an object i.e. the
+difference of temperature of an object.
+
+A thermal camera, unlike a spot temperature gun, captures multiple spots of an object,
+instead of one, to create an image displayed on an LCD screen [5]. Each pixel on the LCD
+represents a single temperature calculation. A FLIR, forward-looking infrared camera, has
+a typical detection temperature range of -20°C to 1200°C [4]. Each spot captured
+corresponds to each pixel on the LCD screen, therefore a screen with resolution of 160 x
+120 pixels displays 19200 temperature readings [6].
+
+FLIR T660 is the model used by BC Hydro.
+
+
+
 
 
 
